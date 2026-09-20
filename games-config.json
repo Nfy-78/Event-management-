@@ -1,9 +1,9 @@
 {
   "eventmenedzher": true,
   "memory": true,
-  "rozsadka": true,
+  "rozsadka": false,
   "magnat": false,
   "kingkong": false,
   "styleevent": false,
-  "updatedAt": "2026-09-20T08:12:15.456Z"
+  "updatedAt": "2026-09-20T08:12:16.631Z"
 }
